@@ -1,0 +1,14 @@
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\bin\Debug\net9.0\Zad_6.exe
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\bin\Debug\net9.0\Zad_6.deps.json
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\bin\Debug\net9.0\Zad_6.runtimeconfig.json
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\bin\Debug\net9.0\Zad_6.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\bin\Debug\net9.0\Zad_6.pdb
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.AssemblyInfoInputs.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.AssemblyInfo.cs
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\refint\Zad_6.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.pdb
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\Zad_6.genruntimeconfig.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\Zad_6\Zad_6\obj\Debug\net9.0\ref\Zad_6.dll
