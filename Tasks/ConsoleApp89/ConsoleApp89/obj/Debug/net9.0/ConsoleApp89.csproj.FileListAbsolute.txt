@@ -1,0 +1,14 @@
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\bin\Debug\net9.0\ConsoleApp89.exe
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\bin\Debug\net9.0\ConsoleApp89.deps.json
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\bin\Debug\net9.0\ConsoleApp89.runtimeconfig.json
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\bin\Debug\net9.0\ConsoleApp89.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\bin\Debug\net9.0\ConsoleApp89.pdb
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.AssemblyInfoInputs.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.AssemblyInfo.cs
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\refint\ConsoleApp89.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.pdb
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ConsoleApp89.genruntimeconfig.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp89\ConsoleApp89\obj\Debug\net9.0\ref\ConsoleApp89.dll
