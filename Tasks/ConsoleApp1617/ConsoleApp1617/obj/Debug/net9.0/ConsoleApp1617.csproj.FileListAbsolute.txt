@@ -1,0 +1,14 @@
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.AssemblyInfoInputs.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.AssemblyInfo.cs
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\bin\Debug\net9.0\ConsoleApp1617.exe
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\bin\Debug\net9.0\ConsoleApp1617.deps.json
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\bin\Debug\net9.0\ConsoleApp1617.runtimeconfig.json
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\bin\Debug\net9.0\ConsoleApp1617.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\bin\Debug\net9.0\ConsoleApp1617.pdb
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\refint\ConsoleApp1617.dll
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.pdb
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ConsoleApp1617.genruntimeconfig.cache
+C:\Users\HONOR\Downloads\main\Learn\KASD\Laba\ConsoleApp1617\ConsoleApp1617\obj\Debug\net9.0\ref\ConsoleApp1617.dll
